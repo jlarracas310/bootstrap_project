@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "363644811858",
+    "project_id": "bootstrap-project-c740a",
+    "storage_bucket": "bootstrap-project-c740a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:363644811858:android:42e13e45d5d238a33cbd8b",
+        "android_client_info": {
+          "package_name": "com.example.bootstrap_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCA_fDDvMP1VDKIfu7vg1-EP1b4Kr1ZXns"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
