@@ -13,7 +13,8 @@ A simple habit-tracking and to-do app built with Flutter, Firebase, and Firestor
 - Secure user session management
 
 ## Video and Screenshots
-[![Watch the demo](thumbnail.png)](https://drive.google.com/file/d/1ipO9Y7eFbmZXCMGwZf6W6x5lsAm7N7La/view?usp=sharing)
+[Watch the demo video](https://drive.google.com/file/d/1ipO9Y7eFbmZXCMGwZf6W6x5lsAm7N7La/view?usp=sharing)
+
 ![image](https://github.com/user-attachments/assets/3ce7c66d-5e10-4ea1-820c-fe4f80a71772)
 ![image](https://github.com/user-attachments/assets/28a10969-c202-4090-970d-b5403a6192cc)
 
