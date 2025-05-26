@@ -14,8 +14,8 @@ A simple habit-tracking and to-do app built with Flutter, Firebase, and Firestor
 
 ## Screenshots
 
-[image](https://github.com/user-attachments/assets/3ce7c66d-5e10-4ea1-820c-fe4f80a71772)
-[image](https://github.com/user-attachments/assets/28a10969-c202-4090-970d-b5403a6192cc)
+![image](https://github.com/user-attachments/assets/3ce7c66d-5e10-4ea1-820c-fe4f80a71772)
+![image](https://github.com/user-attachments/assets/28a10969-c202-4090-970d-b5403a6192cc)
 
 ### Prerequisites
 
